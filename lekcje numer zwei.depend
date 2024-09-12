@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1726145578 source:c:\users\2022 ar\desktop\kotblok\lekcje numer zwei\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+
