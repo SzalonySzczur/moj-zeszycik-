@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726228440 source:c:\users\2022 ar\desktop\kotblok\projekt number 3\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
